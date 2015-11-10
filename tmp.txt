@@ -1,0 +1,124 @@
+ominous 50 50 1
+ominous ventilation 0 9 The ventilation of the house broke down, which is an ominous omen.
+ventilation sewage 1 1 The ventilation is as dirty as the sewage.
+sewage revival 3 5 The revival of this virus happened in the sewage.
+revival pucker 0 5 His face puckered when hearing the revival of his enemy.
+pucker ajure 4 4 Her face puckered as she heard him ajuring their friendship.
+revival entangle 1 0 I don't want to be entangled in this revival plan.
+entangle abduct 2 5 He was abducted so now he is entangled in so many troubles.
+entangle abrasion 4 7 If he has any abrasion, you'll be entangled in troubles.
+abrasion backbreaking 1 0 Look at his abrasion, he is very backbreaking!
+entangle clandestine 6 1 He is entangled in this clandestine mission.
+clandestine nugatory 3 0 This clandestine operation turned out to be totally nugatory.
+nugatory chimera 3 6 It's just a chimera to imagine finishing it with such nugatory tools.
+chimera chimney 0 0 It's a chimera to get in the house through chimney.
+clandestine prepossessing 5 2 The commander of this clandestine mission was prepossessing.
+prepossessing personage 12 7 This historical personage was prepossessing.
+personage metamorphosis 1 1 The metamorphosis of this personage is still a mystery.
+metamorphosis beluga 3 5 The metamorphosis of the sea water results in extinction of beluga.
+beluga benediction 0 0 Please say benediction to beluga.
+metamorphosis pivotal 7 0 This pivotal meeting causes the metamorphosis of this country.
+pivotal enunciate 4 7 In this pivotal meeting you have to enunciate each word carefully.
+personage disband 3 2 This personage helped a lot in disbanding the nuclear troops.
+personage emblem 8 0 This personage kept an emblem of that organization.
+emblem locust 3 0 This is the emblem of the locust family.
+locust controversy 2 0 They had a controversy about whether to wipe out locust.
+controversy eloquent 5 2 He is very eloquent in the controversy.
+controversy predecessor 9 7 No one can persuade the predecessor in the controversy.
+predecessor provoke 0 0 The predecessor wants to provoke the youngests to revolt.
+provoke knoll 2 2 They are provoked to gather on the knoll.
+provoke knotty 4 2 They are provoked to solve this knotty problem.
+provoke enlist 6 0 The predecessor enlisted in troops of many countries.
+enlist longitude 2 0 The longitude of the troop which he enlists is very high.
+longitude laceration 2 9 It's dangerous to get laceration in high longitude zones.
+longitude potpourri 4 8 A potpourri of troops from various contries gathered in the low longitude zones.
+potpourri pabulum 0 0 The potpourri of books is a great kind of pabulum.
+longitude caribou 6 6 This kind of caribou lives in mid-longitude area.
+caribou cachet 0 0 The caribou has the cachet of being used in various ways.
+caribou rabble 2 0 The caribou is killed by a rabble of hunters.
+caribou backlog 4 0 The rest backlogs are about protection of caribous.
+longitude dabble 7 0 Don't dabble in the stuffs of low longitude areas.
+dabble bagatelle 3 0 You don't want to dabble in these batatelles, right?
+bagatelle balderdash 7 2 What you said about how to play with bagatelle is balderdash.
+balderdash bale 4 3 All his balderdashes on paper are baled together.
+dabble zest 5 1 His zest enforces him to dabble in this field.
+enlist sable 4 0 The years after he enlisted in the army were sable.
+predecessor tribulation 10 1 The predecessor has gone through much tribulation.
+tribulation tableau 0 0 You can never see the tribulation behind the tableau.
+tableau abolition 5 0 You can imagine the tableau when abolition of salvery is announced.
+abolition oar 2 0 The abolition of the weird rule that oars shouldn't be put on the boat is inspiring.
+abolition insipid 4 0 The abolition of this charter is really insipid.
+insipid seminal 2 0 This book is rather seminal, while the other one is insipid.
+seminal tangential 6 9 Although seminal, most of this book is actually tangential.
+tangential psephology 4 2 The discussion of psephology is a bit tangential.
+psephology psyche 4 4 The study of psephology reveals part of the human psyche.
+psyche sapience 1 0 It requires sapience to explore the human psyche.
+tangential insurrection 7 0 Don't talk about this insurrection, it's tangential.
+insurrection untoward 3 0 The insurrection is very untoward to us.
+untoward utensil 2 1 I didn't met with anything untoward in building these utensils.
+insurrection wrangle 5 1 The insurrection results from the two sides wrangling for years.
+insipid psalm 4 0 The psalm is very very insipid to me.
+insipid pundit 6 3 His experience of becoming a pundit is insipid.
+pundit rampage 0 3 No one could stop the rampage of a pundit.
+tribulation pluck 5 1 Pluck his heart to end his tribulation.
+locust sear 4 0 All the locusts are seared after being caught.
+clandestine strenuous 7 1 This clandestine mission is for a strenuous goal.
+clandestine notability 9 0 This mission has no notability since it's clandestine.
+notability foreboding 5 7 The notability of this place arises because it's a foreboding place.
+revival simper 3 1 Faced with revival of his enemy, he could only simper.
+ventilation impugn 4 0 I impugn the necessity of the sewage.
+ventilation tortuous 7 0 The tortuous ventilation looks strange.
+ominous ocular 4 0 Tireness of ocular muscle is an ominous omen.
+ocular oafish 4 1 His ocular disease makes him look oafish.
+ocular gyroscope 5 2 Gyroscope liberated the ocular muscles of the tank drivers.
+gyroscope decry 8 1 The soldier is decried for using gyroscope mistakenly.
+decry crater 2 0 The captain was decried for the crater left there.
+crater salient 3 6 The crater is salient on the street.
+salient abate 1 0 By now, the salient hurt has abated.
+abate abstain 3 3 His abstaining from social activities abated his troubles.
+salient wig 3 1 His wig is his salient sign.
+decry pester 3 5 He is decried for pestering her.
+pester siege 2 0 Their life is pestered by the siege.
+siege protean 2 4 Life in siege is protean.
+protean predominance 0 0 The side with predominance is protean.
+siege empathy 4 0 I feel great empathy with the people trapped by siege.
+empathy magnate 1 0 He shows no empathy for the magnate.
+magnate trench 5 0 The used-to-be magnate has to hide in the trench now.
+trench communal 4 0 This trench is our communal defence.
+empathy gestation 4 3 The gestation of empathy is gradually.
+gestation enrapture 1 0 The gestation of this plan enraptured him.
+enrapture frump 4 4 He got enraptured by the frump.
+enrapture jaguar 6 3 He is enraptured by studying jaguars.
+jaguar abracadabra 1 0 His abracadabra was mostly about jaguar.
+abracadabra accrue 2 3 The effects of the abracadabra take time to accrue.
+accrue accomplice 1 1 The number of his accomplices is accruing.
+accomplice adagio 3 5 His accomplices are eating him adagio.
+adagio gadfly 3 0 This gadfly is too adagio.
+gadfly gland 2 4 They want to cut off all the glands of this gadfly.
+gestation inalienable 6 0 The process of gestation is inalienable.
+inalienable epithet 5 0 His epithet and his features are inalienable.
+inalienable irascible 7 2 The charactor of being irascible and this name is inalienable.
+inalienable lumber 9 0 He lumbers forward with his inalienable burden.
+lumber macabre 2 0 The boy lumbered in the macabre road.
+macabre macadam 3 1 A boy walked slowly on the macabre mocadam.
+macadam mace 3 1 The minister walked on the macadam with mace in hand.
+macadam mackintosh 5 1 You must wear a piece of mackintosh when you are walking on this macadam.
+mackintosh kudos 3 0 Wearing this mackintosh is a symbol of kudos.
+kudos lacework 3 5 This kind of lacework has become something of a kudos.
+lacework cumbersome 2 0 The study of this pattern of lacework is by no means cumbersome.
+cumbersome curb 3 3 He is always curbing his temper when dealing with something cumbersome.
+curb curd 1 1 You have to curb yourself when cooking curd.
+curd cussed 3 5 This piece of curd is too cussed to be called a curd.
+mackintosh lampoon 7 4 He lampoons those who are in mackintosh.
+lampoon ensemble 6 1 He lampoons this ensemble of musicians.
+ensemble sieve 2 0 It's hard to sieve the real talents out from this ensemble of singers.
+sieve emendation 4 0 The emendation of this sieve is easy.
+ensemble equable 5 4 Chinese are an ensemble of equable human beings.
+equable equine 6 0 The equine features are usually equable.
+mackintosh lash 9 3 He is lashed for wearing that mackintosh.
+macabre malinger 5 7 He started to malinger after that macabre experience.
+malinger genial 1 4 She didn't know that he was malingering, and was genial to him.
+malinger prairie 3 3 He malingered so that he could go to the prairie again.
+malinger gabble 5 0 He malingered by gabbling a lot.
+ominous sepsis 6 0 Sepsis is an ominous omen of death.
+sepsis plight 2 0 His plight is caused by sepsis.
